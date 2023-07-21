@@ -1,0 +1,20 @@
+.subBtn{
+    width: 150px;
+    margin-top: 10px;
+    display: block;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.label{
+    margin: 5px 0;
+}
